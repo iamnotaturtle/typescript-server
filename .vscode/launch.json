@@ -14,6 +14,7 @@
             "args": [
                 "${workspaceRoot}/src/server.ts"
             ],
+            "restart": true,
             "skipFiles": [
                 "<node_internals>/**"
             ]
